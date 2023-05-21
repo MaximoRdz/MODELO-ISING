@@ -1,7 +1,7 @@
 # MODELO DE PROPAGACIÓN DE OPINIONES EN UNA RED SOCIAL
 El modelo de Ising presenta una forma aproximada de simular el comportamiento de los espines presentes en un material ferromágnetico permitiendonos, a través de un hamiltoniano, predecir los equilibrios colectivos estables y propiedades muy útiles del sistema. 
 Una generalización de este modelo permitiría modelizar la interacción entre las opiniones de individuos de una población y obtener patrones globales muy útiles para discutir ciertas cuestiones sociales.\
-Trabajo completo [aquí](https://github.com/MaximoRdz/GALAXY-MERGERS-TFG/blob/main/GALAXY_MERGERS_MAXIMO.pdf).
+Trabajo completo [aquí](https://github.com/MaximoRdz/MODELO-ISING/blob/main/Modelo_Propagacion_Opiniones_Maximo_Rodriguez.pdf).
 
 <img src="https://github.com/MaximoRdz/MODELO-ISING/blob/main/SIMULACIONES/ising_T_0.9_N_128.gif?raw=true" alt="drawing" width="350"/>
 
