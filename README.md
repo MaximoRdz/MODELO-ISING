@@ -1,5 +1,8 @@
 # MODELO DE PROPAGACIÓN DE OPINIONES EN UNA RED SOCIAL
 
 
-Máximo Rodríguez Herrero
-Mecánica estadística. Universidad Autonoma de Madrid.
+![Alt Text](https://github.com/MaximoRdz/MODELO-ISING/blob/main/SIMULACIONES/ising_T_0.9_N_128.gif?raw=true)
+
+Máximo Rodríguez Herrero\
+Mecánica Estadística\
+Universidad Autonoma de Madrid.
