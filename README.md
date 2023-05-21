@@ -10,10 +10,10 @@ Mecánica Estadística.\
 Universidad Autonoma de Madrid.
 
 ## Contenidos Principales
-- `PrimerosVecinos`
-- `VecinosAleatorios`
-- `DinámicaVecinos`
-- `simulaciones_script` 
+- `PrimerosVecinos.ipynb`
+- `VecinosAleatorios.ipynb`
+- `DinámicaVecinos.ipynb`
+- `simulaciones_script.ipynb` 
 
 ### Extras
 - `main_functions.py`
