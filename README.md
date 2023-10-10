@@ -8,18 +8,15 @@ Trabajo completo [aquí](https://github.com/MaximoRdz/MODELO-ISING/blob/main/Mod
 Máximo Rodríguez Herrero.\
 Mecánica Estadística.\
 Universidad Autonoma de Madrid.
-
 ## Contenidos Principales
 - `PrimerosVecinos.ipynb`
 - `VecinosAleatorios.ipynb`
 - `DinámicaVecinos.ipynb`
 - `simulaciones_script.ipynb` 
-
 ### Extras
 - `main_functions.py`
 - `plot_functions.py`
 - `animacion_ising.py`
-
 ## Requerimientos
 Configuración usada para evitar problemas de compatibilidad con el módulo `numba`.
 | package | version |
