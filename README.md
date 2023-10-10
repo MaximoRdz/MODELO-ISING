@@ -22,7 +22,9 @@ Universidad Autonoma de Madrid.
 
 ## Requerimientos
 Configuración usada para evitar problemas de compatibilidad con el módulo `numba`.
-- `numpy` 1.21.4
-- `numba` 0.56.4
-- `scipy` 1.7.3
-- `matplotlib` 3.7.1
+| package | version |
+| :---: | :---: |
+`numpy` | 1.21.4
+`numba` | 0.56.4
+`scipy` | 1.7.3
+`matplotlib` | 3.7.1
