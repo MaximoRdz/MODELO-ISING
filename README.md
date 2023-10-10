@@ -28,3 +28,4 @@ Configuración usada para evitar problemas de compatibilidad con el módulo `num
 `numba` | 0.56.4
 `scipy` | 1.7.3
 `matplotlib` | 3.7.1
+
